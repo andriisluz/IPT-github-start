@@ -4,3 +4,4 @@ Birne
 Apfelsine
 Dragonfruit
 Ananas
+Kirschen
